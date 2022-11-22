@@ -32,7 +32,7 @@
 
 ## :green_book: Reference
 
-...
+- [Googleタグマネージャーと始めるJavaScript入門](https://www.udemy.com/course/introduction-to-js-with-gtm/)
 
 ## :hatching_chick: Author
 
