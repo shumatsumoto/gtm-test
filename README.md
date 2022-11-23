@@ -16,7 +16,7 @@
 
 ## :pencil2: Overview
 
-Google Tag Manager and JavaScript
+Google Tag Manager and JavaScript.
 
 ## :hammer: Requirement
 
